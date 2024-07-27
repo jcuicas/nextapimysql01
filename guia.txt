@@ -1,4 +1,4 @@
-Estructura de carpetas: En Next.js 13, 
+Estructura de carpetas: En Next.js 14, 
 las API routes se definen dentro de la carpeta app/api. 
 Cada API tiene su propia carpeta dentro de api, donde se define el archivo de ruta.
 
